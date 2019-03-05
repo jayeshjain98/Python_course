@@ -5,6 +5,7 @@ Created on Mon Mar  4 15:56:44 2019
 @author: Jayesh Jain
 """
 
+#this approach is taking lot of time
 with open('anagram.txt', 'r') as fp:
     line = fp.readlines()
 dict1 = {}
