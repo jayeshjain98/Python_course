@@ -1,0 +1,16 @@
+{
+	"Faculty": {
+		"Firstname": "Rajpal",
+		"Lastname": "yadav",
+		"Personal Details": {
+			"Local Address": "n/4 shastri nagar, Bhopal",
+			"Sex": "Male",
+			"s/o,d/o,w/o": "Rampal Yadav",
+			"Blood Group": "B+"
+		},
+		"Photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Rajpal_Yadav.jpg/220px-Rajpal_Yadav.jpg",
+		"Research Areas": ["IOT", "Machine Learning", "Artificial Intelligence"],
+		"Teaching Experience": "10 years",
+		"Department": "Computer Science"
+	}
+}

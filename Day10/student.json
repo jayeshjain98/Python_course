@@ -1,0 +1,26 @@
+{
+	"Student": {
+		"Firstname": "Jayesh",
+		"Lastname": "Jain",
+		"Co-curricular": ["Basketball Player", "English Speaker", "Smart India Hackathon Finalist"],
+		"Contact Details": {
+			"Mobile": 9876543210,
+			"email": "abc@def.com"
+		},
+		"Health": {
+			"BloodGroup": "o+",
+			"Height": "5'7 feet",
+			"Weight": "65 kg",
+			"Sex": "Male"
+		},
+		"CourseDetail": {
+			"Course": "B.Tech",
+			"Branch": "CSE",
+			"Section": "C"
+		},
+		"Qualification": {
+			"Languages": ["C", "C++", "MySQL", "Python", "Java"],
+			"Certification": ["IOT", "Machine Learning"]
+		}
+	}
+}
